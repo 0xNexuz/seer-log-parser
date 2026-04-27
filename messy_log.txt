@@ -1,0 +1,9 @@
+Program 11111111111111111111111111111111 invoke [1]
+Program log: Instruction: Initialize
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+Program log: Instruction: Transfer
+Program log: Error: custom program error: 0x1
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3121 of 190300 compute units
+Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA failed: custom program error: 0x1
+Program 11111111111111111111111111111111 consumed 14332 of 200000 compute units
+Program 11111111111111111111111111111111 failed: custom program error: 0x1
